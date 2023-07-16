@@ -2,7 +2,7 @@
 
 This script is structured in natural language, providing clear instructions to GPT without the need for programming code. It is designed to work in the ChatGPT web interface and requires a GPT Plus subscription.
 
-The concept behind this script comes from the DeepLearning.AI / ChatGPT Prompt Engineering for Developers / Chatbot chapter.
+The concept behind this script comes from the DeepLearning.AI / ChatGPT Prompt Engineering for Developers / Chatbot chapter and Mr. Ranedeer: Your personalized AI Tutor!
 
 ## Requirements and Compatibility
 
