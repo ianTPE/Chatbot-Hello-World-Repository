@@ -1,4 +1,4 @@
-# OrderBot Script Supporting 45 Languages in GPT Scripting
+# Polyglot OrderBot Script Supporting 45 Languages in GPT Scripting
 
 This script is structured in natural language, providing clear instructions to GPT without the need for programming code. It is designed to work in the ChatGPT web interface and requires a GPT Plus subscription.
 
